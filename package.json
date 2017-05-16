@@ -8,9 +8,11 @@
     "react-dom": "^15.5.4"
   },
   "devDependencies": {
+    "serve": "^5.0.1",
     "react-scripts": "0.9.5"
   },
   "scripts": {
+    "now-start": "cd build && serve -s ./",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
