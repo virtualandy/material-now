@@ -1,7 +1,7 @@
 # Denver ReactJS Meetup Notes
 
 # I want it **now** - instantly immutable web apps
-![](http://gph.is/1I7oTwv)
+![veruca throwing a tantrum](https://media.giphy.com/media/jMusG7sxBqCze/giphy.gif)
 
 
 https://zeit.co/now
@@ -43,6 +43,10 @@ git clone git@github.com:IBM-Bluemix/Kitura-Starter.git
 now
 ```
 
+Running Kitura (Swift web framework) example we launched tonight:
+https://kitura-starter-fcmeeozmhg.now.sh/
+
+
 ## Alternatives
 * Heroku [GitHub - mars/create-react-app-buildpack: Heroku Buildpack for create-react-app: static hosting for React.js web apps](https://github.com/mars/create-react-app-buildpack)
 * Surge/Github Pages - [Surge VS GitHub Pages: How to deploy a create-react-app project](https://medium.freecodecamp.com/surge-vs-github-pages-deploying-a-create-react-app-project-c0ecbf317089)
@@ -65,4 +69,3 @@ Movie quotes pen - [My Geeky Movie Quote Generator](http://codepen.io/Ngoldberg/
 Wonka card pen [A Pen by  Hunter Long](http://codepen.io/hunterlong/pen/fcFbu)
 
 
-https://kitura-starter-fcmeeozmhg.now.sh/
